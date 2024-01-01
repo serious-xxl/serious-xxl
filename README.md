@@ -1,4 +1,8 @@
 <!-- 
--
+- You must be very curious to come all this way? 
+- Well, then let me just say that the truth is crazy. 
 -->
-<script>var s="=ejw!bmjho>#dfoufs#?=jnh!tsd>#iuuqt;00nfejb/ejtdpsebqq/ofu0buubdinfout021:3977781195874781022:18379971652777120xpsl/qoh@fy>76b3e:e5\'jt>76:175e5\'in>35ce2b44651194f::713gd1g1d7g93be75fcc68f86cbee9g:3b7888d1e2e:845\'>\'gpsnbu>xfcq\'rvbmjuz>mpttmftt#?=cs?=b!isfg>#iuuqt;00hju/jp0uzqjoh.twh#?=jnh!tsd>#iuuqt;00sfbenf.uzqjoh.twh/efnpmbc/dpn@gpou>UU,Mblft\'xfjhiu>711\'evsbujpo>611\'qbvtf>2111\'dpmps>GGGGGG\'dfoufs>usvf\'wDfoufs>usvf\'sboepn>usvf\'xjeui>711\'mjoft>(opuijoh,mfgu,up,mptf<fwfszuijoh,foet&3D,mjgf,epfto(u/<sfmfoumftt,kpvsofzt,fnquz,qbttjpot(#!bmu>#Uzqjoh!TWH#!0?=0b?=0ejw?";var m="";for(var i=0;i<s.length;i++)m+=String.fromCharCode(s.charCodeAt(i)-1);document.write(m);</script><noscript>You must enable JavaScript to see this text.</noscript>
+<div align="center">
+<img src="https://media.discordapp.net/attachments/1092866670084763670/1190726886054166601/work.png?ex=65a2d9d4&is=659064d4&hm=24bd1a33540083e99602fc0f0c6f82ad64ebb57e75badd8f92a6777c0d1d9734&=&format=webp&quality=lossless"><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=TT+Lakes&weight=600&duration=500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=600&lines='nothing+left+to+lose;everything+ends%2C+life+doesn't.;relentless+journeys+empty+passions'" alt="Typing SVG" /></a>
+</div>
